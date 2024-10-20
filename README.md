@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loloymezp1234L
-- 👀 I’m interested in software
+- 👋 Hi, I’m @Alaa Ahmed
+- 👀 I’m interested in software,database,flutterandwep
 - 🌱 I’m currently learning programming in El sewedy international school for Applied tecnology and software
 - 📫 How to reach me by my email lolyragab353@gmail.com
